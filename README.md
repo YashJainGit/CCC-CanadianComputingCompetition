@@ -1,2 +1,2 @@
 # CCC-CanadianComputingCompetition
-Solutions of Canadian Computing COmpetition in C++ and Python
+Solutions of Canadian Computing Competition in C++ and Python
