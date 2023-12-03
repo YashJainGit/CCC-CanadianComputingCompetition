@@ -1,10 +1,3 @@
-/*
-Code by Yash Jain
-Problem: 2014 S3 The Geneva Confection
-Time Complexity : O(N)
-Method: Loop
-Difficulty: 7/10
- */
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,10 +1,3 @@
-/*
-Code by Yash Jain
-Problem:
-Time Complexity : O()
-Method:
-Difficulty: /10
- */
 #include <bits/stdc++.h>
 using namespace std;
 
