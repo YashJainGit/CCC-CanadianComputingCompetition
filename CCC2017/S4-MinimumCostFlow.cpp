@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+<<<<<<< HEAD
 using ll=long long;
 
 
@@ -73,4 +74,15 @@ int main()
     solve();
     
     return 0;
+=======
+
+void solve(){
+     
+}
+
+int main(){
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    solve();
+>>>>>>> 359b793bb23791ddb56ed3af85bf56c195a06b75
 }
